@@ -1,5 +1,11 @@
 # How Airbnb Listings in Seattle and Boston Compare: Key Insights from Data
 
+![Boston](boston-image.jpg)
+*Source: [Travel and Leisure - Boston](https://www.travelandleisure.com/travel-guide/boston)*
+
+![Seattle](seattle-image.jpeg)
+*Source: [Wikipedia - Seattle](https://en.wikipedia.org/wiki/Seattle)*
+
 ## Introduction
 
 Airbnb listings offer unique insights into travel trends and guest preferences. We analyzed data from Seattle and Boston, focusing on how factors like property type, pricing strategies, and guest stay patterns influence booking rates and review scores. Here's what we found, in simple terms!
